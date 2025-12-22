@@ -1,0 +1,8 @@
+background-color=#202020DD
+outer-margin=10
+border-size=2
+border-color=#D44430
+border-radius=2
+progress-color=source #A92715
+default-timeout=3000
+height=500
