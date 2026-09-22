@@ -1,0 +1,32 @@
+[colors]
+[colors.primary]
+    background = '0x202020'
+    foreground = '0xd0d0d0'
+
+[colors.normal]
+    black =   '0x151515'
+    red =     '0xac4142'
+    green =   '0x7e8d50'
+    yellow =  '0xe5b566'
+    blue =    '0xe0412f'
+    magenta = '0x9e4e85'
+    cyan =    '0x8abeb7'
+    white =   '0x707880'
+
+[colors.bright]
+    black =   '0x505050'
+    red =     '0xac4142'
+    green =   '0x7e8d50'
+    yellow =  '0xe5b566'
+    blue =    '0x6c99ba'
+    magenta = '0x9e4e85'
+    cyan =    '0x8abeb7'
+    white =   '0xc5c8c6'
+
+[window]
+    opacity = 0.9
+
+[font]
+    normal = {family = "JuliaMono", style = "bold"}
+    size = 12.5
+    offset = {x = 1, y = 2}
